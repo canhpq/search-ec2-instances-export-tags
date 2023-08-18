@@ -45,14 +45,14 @@ Examples:
 ```
 1) python search_instances.py -i instance_list -o out.csv -r us-east-1
 2) python search_instances.py -i instance_list -o out.csv -r us-east-1 -p devprofile
-3) python3 search_instances.py -i instance_list -o outfile.csv -r us-east-2 -p nal-dev-canhpq
+3) python3 search_instances.py -i instanceID.csv -o outfile.csv -r us-east-2 -p nal-dev-canhpq
 ```
 
 ## Security
 
 See [CONTRIBUTING](CONTRIBUTING.md#security-issue-notifications) for more information.
 
-## License
-
-This library is licensed under the MIT-0 License. See the LICENSE file.
-
+## print ID instance 
+```
+python3 ec2-instance-describe.py
+```

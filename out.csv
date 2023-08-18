@@ -1,0 +1,11 @@
+search_instance_id,search_public_ipv4,search_private_ipv4,Name,DevopsHandle,Environment,Project,Schedule,stage
+i-0034a3da12d4d3e93,3.141.207.228,172.31.0.22,uniq-sale-system-dev,,dev,,working-time-07To22MonToFri,started
+i-06dcf26d31bcae96d,3.130.116.56,172.31.0.234,ftl-dev,,,,stopafter622023,started
+i-01d2f621cff1afa7d,18.190.44.42,172.31.0.224,acl-rental2-coresystem-dev,,dev,,working-time-07To22MonToFri,started
+i-0702ff75c9f7b986a,3.130.111.2,172.31.0.201,acl-cas-dev,,dev,,,started
+i-04c31439b05a1c0ba,3.134.224.236,172.31.0.206,acl-crm-dev,,dev,,,started
+i-021f8ea498eaa0005,3.141.219.215,172.31.0.111,tsu-tsukuba-dev,hoangld,dev,tsu,working-time-07To22MonToFri,started
+i-0187e188a013e0ad6,3.130.29.66,172.31.3.47,nat-instance,,,,working-time-07To22MonToFri,started
+i-0836c6374eeb0c87b,3.13.67.126,172.31.30.224,nals-jenkins,,,nals-jenkins,,stopped
+i-0088e1a0c905da298,18.218.233.106,172.31.25.27,cia-dev,thanhhc,,cia,working-time-07To22MonToFri,started
+i-05c23f5a676a72688,3.18.234.193,172.31.25.219,rec-dev,thanhhc,,rec,working-time-07To22MonToFri,started
